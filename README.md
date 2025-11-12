@@ -16,8 +16,8 @@
 <h3 align="left">💻 Sobre mim</h3>
 
 - 🚀 Projetos em andamento:
-  -  [![Clube do Livro](https://img.shields.io/badge/AgenIA-In%20progress-darkred?style=flat-square)](https://github.com/yasmimmantovani/clubedolivro_af4)
-  -  [![Sistema de Biblioteca](https://img.shields.io/badge/Brandify-Done-darkgreen?style=flat-square)](https://github.com/yasmimmantovani/SistemaBiblioteca_PHP_MySQL)
+  -  [![Clube do Livro](https://img.shields.io/badge/clubedolivro_af4-In%20progress-darkred?style=flat-square)](https://github.com/yasmimmantovani/clubedolivro_af4)
+  -  [![Sistema de Biblioteca](https://img.shields.io/badge/SistemaBiblioteca_PHP_MySQL-Done-darkgreen?style=flat-square)](https://github.com/yasmimmantovani/SistemaBiblioteca_PHP_MySQL)
 
 - 🎓 Atualmente aprendendo **Conexão Web com PHP e MySQL**
   
