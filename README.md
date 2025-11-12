@@ -39,3 +39,7 @@ Gosto de criar interfaces bonitas, funcionais e aprender um pouco mais a cada di
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimmantovani&layout=compact&bg_color=fff0f5&title_color=ff69b4&text_color=4a4a4a&border_color=ffb6c1" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yasmimmantovani&background=fce4ec&border=f8bbd0&ring=ec407a&fire=f48fb1&currStreakLabel=4a148c&sideNums=4a148c&currStreakNum=ec407a&dates=6a1b9a&sideLabels=ec407a" height="165"/>
+</p>
+
