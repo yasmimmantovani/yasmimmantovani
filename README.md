@@ -21,7 +21,7 @@ Gosto de criar interfaces bonitas, funcionais e aprender um pouco mais a cada di
 ---
 
 ### 📚 Projetos em destaque
-- 💗 [Sistema de gerenciamento para bibliotecas](https://github.com/yasmimmantovani/gerenciaBiblioteca_af4) — site com sistema de cadastro/login de funcionários, cadastro de livros, clientes e empréstimos, visualização de tabelas e gráficos 
+- 💗 [Sistema de gerenciamento para bibliotecas](https://github.com/yasmimmantovani/BookLover) — site com sistema de cadastro/login de funcionários, cadastro de livros, clientes e empréstimos, visualização de tabelas e gráficos 
 - 🌙 [Sistema de Biblioteca](https://github.com/yasmimmantovani/SistemaBiblioteca_PHP_MySQL) — site feito para aprender conexão com banco de dados utilizando php e mysql
 
 ---
