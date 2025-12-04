@@ -44,7 +44,7 @@ Gosto de criar interfaces bonitas, funcionais e aprender um pouco mais a cada di
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yasmimmantovani&background=fce4ec&border=f8bbd0&ring=ec407a&fire=f48fb1&currStreakLabel=4a148c&sideNums=4a148c&currStreakNum=ec407a&dates=6a1b9a&sideLabels=ec407a" height="165"/>
 </p>
-</summary>
+</details>
 
 <details>
   <summary>English</summary>
