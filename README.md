@@ -17,7 +17,7 @@ Gosto de criar interfaces bonitas, funcionais e aprender um pouco mais a cada di
 
 ### 🛠️ Tecnologias que uso e estudo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,figma,react" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ Gosto de criar interfaces bonitas, funcionais e aprender um pouco mais a cada di
 
 ### 🛠️ Technologies I Use and Study
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,figma,react" />
 </p>
 
 ---
