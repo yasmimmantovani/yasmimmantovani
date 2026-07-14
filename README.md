@@ -9,7 +9,7 @@ Gosto de criar interfaces bonitas, funcionais e aprender um pouco mais a cada di
 
 ### 🌷 Sobre mim
 - 🎓 Atualmente cursando o 3º período de ADS  
-- 💡 Tenho interesse em desenvolvimento **front-end**, design de interfaces e UX/UI  
+- 💡 Tenho interesse em desenvolvimento **front-end**, UX/UI  
 - 📍 Local: Mangaratiba - RJ  
 - ✨ Buscando sempre evoluir a cada dia  
 
